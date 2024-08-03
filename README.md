@@ -11,10 +11,10 @@
 2) Escreva um programa que leia um número inteiro e depois o imprima.
 3) Escreva um programa que leia um número inteiro e depois imprima a mensagem "Valor lido: ", seguido do valor inteiro. Use apenas um comando printf().
 4) Faça um programa que leia um número inteiro e depois o imrprima usando o operador "%f", veja o que aconteceu.
-5)Faça um programa que leia um valor do tipo float e depois imprima usando o operador "%d". Veja o que aconteceu.
+5) Faça um programa que leia um valor do tipo float e depois imprima usando o operador "%d". Veja o que aconteceu.
 6) Faça um programa que leia um valor do tipo double e depois o imprima na forma de notação cientifica.
 7) Elabore um programa que leia um caractere e depois o imprima como um valor inteiro.
-8)Faça um programa que leia dois números inteiros e depois imprima na ordem inversa em que eles foram lidos.
+8) Faça um programa que leia dois números inteiros e depois imprima na ordem inversa em que eles foram lidos.
 9) Faça um programa que leia dois valores do tipo float. Use um único comando de leitura para isso. Em seguida, imprima os valores lidos na ordem inversa em que eles foram lidos.
 10) Elabore um programa que solicite ao usuário entrar com o valor do dia, mês e ano(inteiros). Em seguida, imprima os valores lidos separados por uma barra(/).
 11) Faça um programa que leia três caracteres do tipo char e depois os imprima um em cada linha. Use um único comando printf() para isso.
